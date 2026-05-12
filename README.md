@@ -3,6 +3,10 @@
 </p>
 <p align="left"> -->
 
+> This repository is a reproduction and adaptation of the RAPTOR project by
+> Parth Sarthi, licensed under MIT. Original repository:
+> https://github.com/parthsarthi03/raptor
+
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="raptor.jpg" width="1000px">
   <source media="(prefers-color-scheme: light)" srcset="raptor_dark.png" width="1000px">
