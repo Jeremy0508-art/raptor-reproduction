@@ -1,0 +1,16 @@
+# Compatibility constraints for running RAPTOR on Python 3.12 on Windows.
+# The original pins target older Python versions; tiktoken==0.5.1 has no
+# cp312 Windows wheel and requires Rust to build from source.
+faiss-cpu
+numpy==1.26.3
+openai==1.3.3
+httpx==0.27.2
+scikit-learn==1.5.2
+sentence-transformers==2.2.2
+huggingface-hub==0.20.3
+tenacity==8.2.3
+tiktoken==0.12.0
+torch
+transformers==4.38.1
+umap-learn==0.5.5
+urllib3==1.26.6
